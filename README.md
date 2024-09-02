@@ -1,4 +1,5 @@
 Maximizing Performance: Data Analysis of Formula 1 Driver and Race Data
+
 ![image](https://github.com/user-attachments/assets/6a34d27e-bd9e-4a0b-ae35-b460bfd55b6b)
 
 Introduction
