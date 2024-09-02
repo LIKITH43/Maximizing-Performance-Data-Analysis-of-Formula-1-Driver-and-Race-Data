@@ -1,3 +1,6 @@
+Maximizing Performance: Data Analysis of Formula 1 Driver and Race Data
+![image](https://github.com/user-attachments/assets/c8617e3d-f9fa-43d1-8e6c-b0455adeabdc)
+
 Introduction
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The Formula 1 (F1) racing championship is a highly competitive motorsport that generates vast amounts of data during races, including telemetry data from cars, performance data, driver information, and race results. This project aims to harness the power of data analysis techniques to gain deeper insights into F1 data, unlocking its full potential for improving team performance, optimizing race strategies, and enhancing overall race outcomes. This repository contains data analysis of Formula One (F1) races.The data is accurate as of the 2023 Bahrain Grand Prix. The analysis is performed using Python programming language and various data analysis libraries such as Pandas, Numpy, and Matplotlib.
